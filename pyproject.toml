@@ -8,6 +8,7 @@ packages = [{include = "pyproject"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
+google-api-python-client = "^2.111.0"
 
 
 [build-system]
